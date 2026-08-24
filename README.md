@@ -7,4 +7,4 @@ This project was created for personal enjoyment and exploration of Premier Leagu
 All data came from the publicly available [FPL-Core-Insights](https://github.com/olbauday/FPL-Core-Insights)
 repository that updates regularly
 
-Current versions of this repo depend on personal Colab Notebook and Google Drive paths. Insights and visualizations are viewable.
+Insights and visualizations are viewable.

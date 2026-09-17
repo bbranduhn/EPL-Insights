@@ -8,3 +8,14 @@ All data came from the publicly available [FPL-Core-Insights](https://github.com
 repository that updates regularly
 
 Insights and visualizations are viewable.
+
+## Installation 
+
+1. Clone this repo (e.g., `git clone https://github.com/bbranduhn/EPL-Insights.git`)'
+
+2. Create a `.env` file in the project directory and add the path to the data repository
+```python
+DATA_REPO_PATH = FOLDER_PATH_HERE
+```
+
+Now you're able to run any of the codebases  
